@@ -1,18 +1,18 @@
-Parameter 			  Abbreviation		Prescribed Standard 		  Units
-Particulate Matter 		PM10				100        			micro gm/m3	
-Particulate Matter 		PM2.5				60          		micro gm/m3	    
-Ozone       			O3    			NA				micro gm/m3	  			 
-Ammonia           		NH3				NA				micro gm/m3	
-Bar Pressure        		BP				NA				mmHg
-Solar Radiation     		SR				NA				w/m2
-Relative Humidity   		RH				NA				%
-PXylene            		PXY				NA				micro gm/m3	
-Toulene           		TOL				NA				micro gm/m3	
-Ambient Temperature 		AT				NA				deg C
-Wind Direction      		WD				NA				deg
-Wind Speed          		WS				NA				m/s
-Sulphur Dioxide     		SO2				80				micro gm/m3	
-Oxides of Nitrogen  		NOx				NA				micro gm/m3	
-Nitrogen Dioxide    		NO2				80				micro gm/m3	
-Benzene            		BEN				NA				micro gm/m3	
-Nitric Oxide        		NO				NA				micro gm/m3
+Parameter         Abbreviation		Prescribed Standard 		  Units
+Particulate Matter 10 		PM10				100        			micro gm/m3	
+Particulate Matter 2.5 		PM2.5				60          		micro gm/m3	    
+Ozone                     O3          NA			        micro gm/m3	  			 
+Ammonia           		    NH3			    NA			        micro gm/m3	
+Bar Pressure        		  BP			    NA			        mmHg
+Solar Radiation     		  SR			    NA			        w/m2
+Relative Humidity   		  RH			    NA			        %
+PXylene            		    PXY			    NA			        micro gm/m3	
+Toulene           		    TOL			    NA			        micro gm/m3	
+Ambient Temperature 		  AT			    NA			        deg C
+Wind Direction      		  WD			    NA			        deg
+Wind Speed          		  WS			    NA			        m/s
+Sulphur Dioxide     		  SO2			    80			        micro gm/m3	
+Oxides of Nitrogen  		  NOx			    NA			        micro gm/m3	
+Nitrogen Dioxide    		  NO2			    80			        micro gm/m3	
+Benzene            		    BEN			    NA			        micro gm/m3	
+Nitric Oxide        		  NO			    NA			        micro gm/m3
